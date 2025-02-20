@@ -17,29 +17,13 @@
 # About Me
 
 Hello there! I consider myself a **Full Stack Developer** with a rich expertise in both **web2** and **web3**, **AI** technologies.
-I can write Smart Contracts in Solidity, Rust, Move, FunC on EVM compatible chains, Solana, CosmWasm, Near, Aptos, Sui and TON.
+On the frontend, I have extensive experience with React.js, Next.js, Vue.js, Material-UI, and
+Figma for creating user-friendly UI designs. For backend development, I’m proficient in Node.js and Express.js.
+In the blockchain domain, I’ve spent years working with Web3.js, Ether.js, and smart contract frameworks like Hardhat, Truffle, and Remix. I’ve built
+dApps, NFT marketplaces, and P2E crypto games, gaining deep experience in tools like WAGMI and smart contract auditing.
+I’m also well-versed in Agile and Scrum methodologies, which has helped me work efficiently in team settings while maintaining strong communication
+and collaboration. Whether working independently or as part of a team, I’m confident in delivering high-quality solutions tailored to project needs.
 
-## Currently
-- 🔭 I'm employed as a **Software Engineer** where I play a pivotal role in contributing to both the frontend and backend aspects of our web applications.
-  - 💼 Building user interfaces with a focus on **usability** and **performance**.
-  - 🛠️ Developing server-side logic that scales well and integrates seamlessly with various databases and services.
-  - 👁️ Ensuring **cross-platform compatibility** and implementing **responsive design**.
-- 🖥️ Additionally, I am deeply involved with **smart contract development**, essential for today's decentralized applications.
-  - 📜 Writing **Solidity & Rust, Move, FunC Contracts** with a strong emphasis on **security** and **gas optimization**.
-  - 🔗 Integrating smart contracts into traditional applications to create hybrid systems.
-  - DL/ML
-## On the Horizon
-- 🌱 I'm currently delving into the world of **Technical Content Writing**.
-  - ✍️ Sharing my knowledge and experience through blogging platforms and technical documentation.
-- 💡 Always eager to learn, I dedicate my free time to exploring the latest software technologies.
-  - 🏗️ Experimenting with new frameworks and languages to stay ahead in the fast-paced tech landscape.
-
-## Goals
-- 🤔 I’m looking forward to connecting and exchanging ideas with other developers in the tech community.
-  - 🤝 Open to mentorship opportunities, peer programming sessions, and tech meetups.
-  - 🔄 Keen on contributing to open source projects and participating in coding challenges.
-
-Feel free to reach out if you're interested in collaborating or just want to chat about tech!
 
 ### 🛠 &nbsp;Languages and Tools :
 
@@ -84,7 +68,6 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-I am always open to work!!!!
 ---
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
