@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47jkz6ie9570q0uniys4hbpas6zsx02nrlu6rnyse4&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100"/></p>
+<p align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="100"/></p>
 
 
 
@@ -8,7 +8,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">Hello, Everyone</h1> 
+<h1 align="center">Hello, Everyone! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" alt=""></h1> 
 
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" />
 
@@ -16,7 +16,7 @@
 
 # About Me
 
-Hello there! I consider myself a **Full Stack Developer** with a rich expertise in both **web2** and **web3**, **AI** technologies.
+This is Nico Thomson, I consider myself a **Full Stack Developer** with a rich expertise in both **web2** and **web3**, **AI** technologies.
 On the frontend, I have extensive experience with React.js, Next.js, Vue.js, Material-UI, and
 Figma for creating user-friendly UI designs. For backend development, I’m proficient in Node.js and Express.js.
 In the blockchain domain, I’ve spent years working with Web3.js, Ether.js, and smart contract frameworks like Hardhat, Truffle, and Remix. I’ve built
