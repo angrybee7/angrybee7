@@ -1,4 +1,3 @@
-<img src="images/svg/header.gif"></img>
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 ### :space_invader: &nbsp;About Me
 
@@ -6,12 +5,12 @@
 &nbsp;&nbsp;&nbsp;seedling: &nbsp;Love for science and innovation.\
 &nbsp;&nbsp;&nbsp;heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
 &nbsp;&nbsp;&nbsp;writing_hand: &nbsp;Currently researching software architecture, development, and quality.\
-&nbsp;&nbsp;&nbsp;hammer_and_wrench: &nbsp;Coding since 2008 with 10+ years of experience in enterprise wide software development.\
+&nbsp;&nbsp;&nbsp;hammer_and_wrench: &nbsp;Coding since 2015 with 10+ years of experience in enterprise wide software development.\
 &nbsp;&nbsp;&nbsp;family_man: &nbsp;Living with my lovely wife and daughter.
 
 <p align="center">
-  <a href="mailto:vipcharis.so24@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/magicKraken"><img src="https://img.shields.io/badge/Telegram-%233B5998.svg?&style=for-the-badge&logo=Telegram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="nicothomson99815@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/angrybee7"><img src="https://img.shields.io/badge/Telegram-%233B5998.svg?&style=for-the-badge&logo=Telegram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- <a href="https://www.facebook.com/bruno.vitorellitacca"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/brunotacca/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/brunotacca/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
@@ -25,7 +24,7 @@
 <hr/>
 
 <details>
-  <summary><b>Main tech knowledge</b></summary>
+  <b>Main tech knowledge</b>
   <br/>
 
 ![Solidity](https://img.shields.io/badge/solidity-CC6699.svg?&style=flat&logo=solidity&logoColor=white)&nbsp;
@@ -108,17 +107,6 @@
 ![Onion Architecture](https://img.shields.io/badge/ONION%20ARCHITECTURE-A81C7D.svg?&style=flat&logoColor=white)&nbsp;
 ![BDD](https://img.shields.io/badge/BEHAVIOR%20DD-4479A1.svg?&style=flat&logo=bdd&logoColor=white)&nbsp;
 
-</details>
-<details><summary><b>GitHub Statistics</b></summary>
-  <br/>
-    <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=magicKraken&hide_border=true&theme=nightowl" />
-    </p>
-    <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=magicKraken&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> 
-        <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magicKraken&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
-    </p>
-  <!-- <img height="137px" src="https://github-readme-stats.vercel.app/api?username=magicKraken&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magicKraken&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> -->
 </details>
 <hr/>
 
