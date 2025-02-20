@@ -8,9 +8,9 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">Hello, Everyone! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" alt=""></h1> 
+<h1 align="center">Hello, Everyone! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" alt="" width="40" height="40"></h1> 
 
-<img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" width="40" height="40"/>
+<img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" />
 
 
 
