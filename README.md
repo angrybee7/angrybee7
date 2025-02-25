@@ -18,7 +18,7 @@
 
 I consider myself a **Full Stack Developer** with a rich expertise in both **web2** and **web3**, **AI** technologies.
 On the frontend, I have extensive experience with React.js, Next.js, Vue.js, Material-UI, and
-Figma for creating user-friendly UI designs inlcuding website and mobile apps. For backend development, I’m proficient in Node.js and Express.js.
+Figma for creating user-friendly UI designs inlcuding website and mobile apps. For backend development, I’m proficient in Node.js, Express.js python, c# and Java.
 In the blockchain domain, I’ve spent years working with Web3.js, Ether.js, and smart contract frameworks like Hardhat, Truffle, and Remix. I’ve built
 dApps like NFT marketplaces, token launchpad, swap, staking and P2E crypto games, gaining deep experience in tools like WAGMI and smart contract auditing.
 I’m also well-versed in Agile and Scrum methodologies, which has helped me work efficiently in team settings while maintaining strong communication
