@@ -16,7 +16,7 @@
 
 # About Me
 
-I am a **Full Stack & Blockchain Developer** with a rich expertise in both **web2** and **web3**, **AI** technologies.
+I am a **Full Stack & Blockchain Developer** with a rich expertise in both **web2** and **web3** technologies.
 I am very adept at building frontend UI based on responsive features, converting UX/UI designs into conversational interfaces, and working with backends for API and Web3 integrations.
 I have been working in the blockchain space for about 5 years, with extensive experience building dapps, staking/farming/lending, swap, token/nft launchpad, NFT marketplaces, P2E/bots, etc.
 As a successful professional in roles such as project manager and senior developer, I provide a comprehensive combination of technical expertise and leadership insight.
